@@ -17,8 +17,8 @@
          </select><br><br>
 Employee ID: <input type = "text" name = "ID" /> <br><br>
 Designation: <input type = "text" name = "ID" /> <br><br>
-Phone Number: <input type = "text" name = "phone" /> <br><br>
-      <input type = "submit" name = "submit" value = "Submit" /> <br><br>
+Phone Number: <input type = "text" name = "phone" /> <br>
+      <button><h4><a href="Submit.html">Submit</a></h4></button>
 </fieldset>
 </form>
 </body>
