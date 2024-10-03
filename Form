@@ -1,3 +1,4 @@
+1) Form.html
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,4 +23,14 @@ Phone Number: <input type = "text" name = "phone" /> <br><br>
 </form>
 </body>
 </head>
+</html>
+
+2) Sumbit.html
+<html>
+    <head>
+        <title>Submit Page</title>
+        <body>
+            <h1><center>Your Response Submited Successfully</center></h1>
+        </body>
+    </head>
 </html>
