@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>Specification Table with Hours and Marks</title>
+<link rel="icon" href="cse.jpg">
+<center><h1>Specification Table with Hours and Marks</h1></center>
+</head>
+<body>
+<table align="center" cellpadding = "5" border="1">
+<tr>
+<td rowspan="2"><center>Reg No.</center></td>
+<td rowspan="2"><center>Subjects</center></td>
+<td rowspan="2"><center>Teaching Hours</center></td>
+<td colspan="4"><center>Distribution of Theory Marks</center></td>
+</tr>
+<tr>
+<td><center>Level 1</center></td>
+<td><center>Level 2</center></td>
+<td><center>Level 3</center></td>
+<td><center>Total Marks</center></td>
+</tr>
+<tr>
+<td>001</td>
+<td>Introduction to Internet Technology</td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+<td>0</td>
+<td>8</td>
+</tr>
+<tr>
+<td>002</td>
+<td>Basics of HTML & CSS</td>
+<td>6</td>
+<td>0</td>
+<td>2</td>
+<td>6</td>
+<td>8</td>
+</tr>
+<tr>
+<td>003</td>
+<td>Active Server Pages 3.0</td>
+<td>6</td>
+<td>4</td>
+<td>8</td>
+<td>0</td>
+<td>12</td>
+</tr>
+<tr>
+<td>004</td>
+<td>ASP Objects & Componenets</td>
+<td>10</td>
+<td>4</td>
+<td>4</td>
+<td>6</td>
+<td>14</td>
+</tr>
+<tr>
+<td>005</td>
+<td>Accessing database with ASP & ADO</td>
+<td>10</td>
+<td>4</td>
+<td>4</td>
+<td>6</td>
+<td>14</td>
+</tr>
+<tr>
+<td></td>
+<td>Total</td>
+<td>42</td>
+<td>18</td>
+<td>26</td>
+<td>26</td>
+<td>70</td>
+</tr>
+</table>
+</body>
+</html>
