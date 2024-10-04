@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <title>Text Formatting Tags</title>
+        <link rel="icon" href="cse.jpg">
+    </head>
+    <h2 align="center">👨‍💻Text Formatting Tags</h2>
+    
+    <table align="center" cell padding="10" border="1">
+        <tr>
+            <td>HTML Tag</td>
+            <td>Output</td>
+            </tr>
+            <tr>
+            <td>normal text</td>
+            <td>helo world</td>
+            </tr>
+            <tr>
+            <td>&lt;B&gt;</td>
+                <td><b>BOLD</b></td>
+                </tr>
+                <tr>
+            <td>&lt;I&gt;</td>
+                <td><i>Italic</i></td>
+                </tr>
+                <tr>
+            <td>&lt;U&gt;</td>
+                <td><u>Underline</u></td>
+                </tr>
+                <tr>
+            <td>&lt;EM&gt;</td>
+                <td><em>Emphasis</em></td>
+                <tr>
+                    <td>&lt;STRONG&gt;</td>
+                    <td><b>STRONG</b></td>
+                </tr>
+                <tr>
+                    <td>&lt;TELETYPE&gt;</td>
+                    <td>TELETYPE</td>
+                </tr>
+                <tr>
+                    <td>&lt;CITE&gt;</td>
+                    <td>Citation</td>
+                </tr>
+                <tr>
+                    <td>&lt;STRIKE></td>
+                    <td><strike>strike through text</strike></td>
+                </tr>
+                <tr>
+                    <td>&lt;BIG&gt;</td>
+                    <td><big>text in a big font</big></td>
+                </tr>
+                <tr>
+                    <td>&lt;SMALL&gt;</td>
+                    <td><small>text in a small font</td>
+                </tr>
+                <tr>
+                    <td>&lt;SUB&gt;</td>
+                        <td>a<sub>b</sub></td>
+                        </tr>
+                        <tr>
+                            <td>&lt;SUP&gt;</td>
+                            <td>a<sup>b</sup></td>
+                </tr>
+    </table>
+</html>
