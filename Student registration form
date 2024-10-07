@@ -1,0 +1,102 @@
+<html>
+<head>
+<title>Student Registration Form</title>
+<link rel="stylesheet" href="style.css">
+<style type="text/css">
+h3{font-family: Calibri; font-size: 22px; font-style: normal; font-weight: bold;text-align: center; color: crimson; }
+</style>
+</head>
+<body>
+<h3>👨‍💻EMPLOYEE REGISTRATION FORM</h3>
+<table align="center" cellpadding = "10">
+<td></td>
+<td>
+    <input type="radio" name="Gender" value="Mr" />Mr
+    <input type="radio" name="Gender" value="Mrs" />Mrs
+    <input type="radio" name="Gender" value="Ms" />Ms
+</td>
+</tr>
+<tr>
+<td>FIRST NAME</td>
+<td><input type="text" name="First_Name" maxlength="30" placeholder="First Name"/>
+</td>
+</tr>
+<tr>
+<td>LAST NAME</td>
+<td><input  type="text" name="Last_Name" maxlength="30" placeholder="Lase Name"/>
+</td>
+</tr>
+<tr>
+<td>MAIL ADDRESS 1</td>
+<td><input  type="text" name="Email_Id" maxlength="100" /></td>
+</tr>
+<tr>
+<td>MAIL ADDRESS 1</td>
+<td>
+<input  type="text" name="Mobile_Number" maxlength="10" />
+</td>
+</tr>
+<tr>
+
+
+<tr>
+<td>CITY</td>
+<td><input type="text" name="City" maxlength="30" />
+</td>
+</tr>
+<tr>
+<td>STATE</td>
+<td>
+    <select name="states" id="states">
+    <option value="india">India</option>
+    <option value="andhra pradesh">Andhra pradesh</option>
+    <option value="bihar">Bihar</option>
+    <option value="gujarat">Gujarat</option>
+  </select>
+</td>
+</tr>
+<tr>
+<td>ZIP</td>
+<td><input type="text" name="State" maxlength="30" />
+</td>
+</tr>
+<tr>
+    <td>UPLODE PHOTO</td>
+        <td><input type="file" id="browse" placeholder="Browse..."></td>
+</tr>
+<tr>
+<td>E-Mail</td>
+<td><input type="text" name="Country"/></td>
+</tr>
+<tr>
+    <td>MOBILE</td>
+    <td><input type="mobile" name="+91" maxlength="10" placeholder="+91"/>
+</tr>
+<tr>
+<td>Languages Known
+</td>
+<td>
+<input type="checkbox" name="Hobby_Drawing" value="Tamil" />Tamil<br>
+
+<input type="checkbox" name="Hobby_Singing" value="Hindi" />Hindi<br>
+
+<input type="checkbox" name="Hobby_Dancing" value="English" />English<br>
+
+<input type="checkbox" name="Hobby_Cooking" value="Marathi" />Marathi<br>
+</td>
+</tr>
+<tr>
+    <td>ADDRESS 
+    </td>
+    <td><textarea name="Address" rows="4" cols="30" placeholder="Optional"></textarea></td>
+    </tr>
+<tr>
+<td colspan="2" align="center">
+    <input type="Submit" name="submit" id="submit">
+    <input type="Reset" name="reset" id="reset">
+</td>
+</tr>
+</table>
+</form>
+</body>
+</html>
